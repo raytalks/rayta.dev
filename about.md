@@ -28,5 +28,5 @@ In my daily job I work as a Scrum Master and a developer in the Platform Team at
 	<li><a href="https://amsrb.org/">Amsterdam Ruby meetup</a></li>
 	<li><a href="https://railsgirls.com/thehague.html">RailsGirls Netherlands</a></li>
 	<li><a href="https://euruko2019.org/">EuRuKo2019 in Rotterdam</a></li>
-	<li><a href="https://rossconf.io">ROSS Conf in Amsterdam</a></li>
+	<li><a href="https://www.rossconf.io">ROSS Conf in Amsterdam</a></li>
 </ul>
