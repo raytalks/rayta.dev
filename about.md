@@ -7,7 +7,7 @@ layout: page
 <p> Vegetarian, aspiring vegan 🌱. 
 I’ve been kickboxing since I was 15 year old, it’s how I like to clear my head 🥊.
 
-In my daily job I work as a Scrum Master and a developer in the Platform Team at YoungCapital. I enjoy tinkering with Ruby and I like the DevOpsy part of my job. When I’m not working I like to organise events for the tech community.  
+In my daily job I work as a Scrum Master and a developer in the Platform Team at <a href="https://www.youngcapital.nl">YoungCapital</a>. I enjoy tinkering with Ruby and I like the DevOpsy part of my job. When I’m not working I like to organise events for the tech community.  
 </p>
 
 <h2>Skills</h2>
