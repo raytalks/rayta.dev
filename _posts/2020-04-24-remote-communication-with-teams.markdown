@@ -1,5 +1,5 @@
 ---
-title: "Remote communication with teams during pandemic"
+title: "Remote communication with teams during a pandemic"
 layout: post
 date: 24 April 2020
 image: /assets/images/woman-having-a-video-call.jpg
