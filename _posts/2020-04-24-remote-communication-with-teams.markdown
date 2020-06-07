@@ -1,5 +1,5 @@
 ---
-title: "Remote communication with teams during a pandemic"
+title: "Remote communication with teams during pandemic"
 layout: post
 date: 24 April 2020
 image: /assets/images/woman-having-a-video-call.jpg
@@ -32,7 +32,7 @@ These are what I consider the most valuable points of communication in my job as
 * **Regular rituals.** 
 At YoungCapital we work with many Agile teams. Having a cadence and process for meetings helps the teams become more autonomous and iterative. For remote retrospectives I use [Parabol](https://www.parabol.co/) which I absolutely love! 
 
-* **Document all the things**. I keep track and write down what I’m working on. New topics I’m learning and would like to implement, like workshops or even small “How are we doing today” practices. Like this gem I found on Twitter:
+* Document all the things. I keep track and write down what I’m working on. New topics I’m learning and would like to implement, like workshops or even small “How are we doing today” practices. Like this gem I found on Twitter:
 
 
 ![Markdown Image](/assets/images/tweet.png)
