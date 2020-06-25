@@ -32,4 +32,5 @@ If someone calls a meeting without a clear purpose, the creation of an agenda wo
 Ok, ok, I’ll admit that not everyone hates meetings necessarily, but people do hate having their time wasted. If you’re planning a meeting with a team of developers, talk to them about their working/ coding hours so you can plan around it. The assumed ideal time would be to plan a meeting in the morning or late afternoon. Because in order to be productive, the teams need to be able to work on their project without interruption. Which in turn gives them time to get stuff done and maybe ship some code!
 
 
-![Markdown Image](/assets/images/developer-interrupted.jpg)
+![Markdown Image](/assets/images/focus.jpeg)
+
