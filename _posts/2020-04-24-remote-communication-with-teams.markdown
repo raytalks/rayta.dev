@@ -9,7 +9,7 @@ tag:
 - teams
 category: blog
 author: Rayta van Rijswijk 
-description: Lessons I learned as Scrum Master about communication with teams during COVID-19 
+description: Lessons I learned as a Scrum Master about communication with teams during COVID-19 
 ---
 
 Our entire IT-department (70+ devs) works from home, because of the COVID-19 pandemic. Not only does the Corona virus affect our personal lives, it also takes its toll on how we work as a team, and especially on the way in which we communicate.

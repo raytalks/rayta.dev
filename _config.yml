@@ -1,14 +1,16 @@
 # main text of home
 name: Hi 👋🏽, I'm Rayta!
-bio: 👩🏽‍💻 Developer, 🧞‍♀️ Scrum Master, 🗣 community leader and producer of 🐵🐵. My pronouns are she/ her 🤩
+bio: 👩🏽‍💻 Engineering Manager, 👾 Microsoft MVP Developer Technologies, 🧞‍♀️ Scrum Master, 🗣 Inclusive community leader.
+ Proud mom of a Bernese Mountaindog 🐶. 
+ My pronouns are she/ her 🤩
 
 # twitter summary info
-description: Blogs about technology, teams, Scrum and other stuff
+description: Blogs about DEI, technology, teams, Engineering Management, and other stuff
 
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/rayta-avatar.PNG
+picture: assets/images/red-rayta.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
