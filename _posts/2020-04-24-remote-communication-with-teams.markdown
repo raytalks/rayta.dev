@@ -20,6 +20,7 @@ I have encountered some challenges and learned some important lessons on communi
 
 <div class="breaker"></div>
 
+
 ## Elaborate and document
 Effective communication is everything. I learned I had to communicate and document a lot more working from home, than when I was working at the office, because sometimes messages in Slack/chat get misinterpreted. 
 
@@ -37,6 +38,7 @@ At YoungCapital we work with many Agile teams. Having a cadence and process for 
 
 ![Markdown Image](/assets/images/tweet.png)
 
+
 ## Provide more details 
 Some comments, whether it’s in a chat thread or in a code review, need more context. How would you feel if you spent days working on a feature, submitted a Merge Request and someone responds with “Your code sucks.” Or when your team lead slides in your DM with “We need to talk.”
 
@@ -50,6 +52,7 @@ I’m a big fan of emojis and I use them a lot in Slack conversations. It helps 
 
 ![Markdown Image](/assets/images/cheerful-surprised-woman-sitting-with-laptop.jpg)
 
+
 ## Video calls
 Sometimes text messages are not the right medium for discussing or explaining hard subjects. Video calls are a nice way of having quick conversations. You can provide more context and details and move straight to action when needed. 
 
@@ -59,6 +62,8 @@ For example, “That’s a lot of laundry behind you” might be perceived as a 
 
 In all cases, if you’re not friends outside of work, or are unsure what relationship you have with someone, restraining yourself from commenting on the environment someone is calling from might be a safer solution.
 
+
 ## Conclusion
 Working remote with an entire team is challenging. Especially these days where product owners, engineering managers, dev teams and stakeholders have to deal with big changes that impact the way we work. It’s easy to jump to conclusions and let your emotions get the best of you. But if you spend a bit more time in conveying your message and providing more context you’ll develop one of the most important soft skills: **communication**.
+
 
