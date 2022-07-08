@@ -1,8 +1,16 @@
 ---
-title: Building diverse teams
+title: "Building diverse teams"
+layout: post
+date: 7 July 2020
+image: /assets/images/pexels-katie-rainbow.jpg
+headerImage: true
+tag:
+- Diversity
+- Inclusion
+category: blog
+author: Rayta van Rijswijk 
+description: How to build diverse teams
 ---
-
-![]({{ 'assets/pexels-katie-rainbow-🏳️_🌈-9714250.jpg' | relative_url }})
 
 The information technology world is changing and businesses are facing pressure to build diverse teams at work and end discrimination in the workplace. However, building diverse and inclusive teams is hard.
 
@@ -30,7 +38,6 @@ The biggest companies in the world are finding more advanced ways of connecting 
 
 
 ![]({{ 'assets/DEI quote.png' | relative_url }})
-
 This isn’t done through panicked token hiring. First, with "diversity" I don't mean white women. Diversity covers a broad spectrum, but the standard is white.
 
 A hiring manager with a box-ticking mindset can undermine the progress: “Ok people, we've got a woman, we are diverse! Bring out the champagne!”
