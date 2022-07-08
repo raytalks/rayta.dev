@@ -18,7 +18,7 @@ resume: false
 resume-external: true
 resume-url: https://www.linkedin.com/in/rayta/
 
-url: https://raytalks.github.io/rayta.dev/
+url: https://rayta.dev
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -125,7 +125,7 @@ plugins:
   - jekyll-paginate-v2
 
 jekyll-mentions:
-  base_url: https://raytalks.github.io/rayta.dev/
+  base_url: https://rayta.dev
 
 compress_html:
   ignore:
