@@ -1,7 +1,7 @@
 ---
 title: "Building diverse teams"
 layout: post
-date: 7 July 2020
+date: 7 July 2022
 image: /assets/images/pexels-katie-rainbow.jpg
 headerImage: true
 tag:
